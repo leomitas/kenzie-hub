@@ -3,7 +3,6 @@ Ele tem funcionalidades como, login, cadastro, modal para criar tecnologias, edi
 Foi feito como entrega semanal do curso Kenzie Academy e está utilizando a api disponibilizada por eles.
 
 Link do vercel: https://kenzie-hub-neon-sigma.vercel.app/
-Conta para acesso fácil: {"email": "leomitas@mail.com", "senha": "123456"}
 
 ReactJs, bibliotecas utilizadas: 
 Axios para fazer as requisições da api.
