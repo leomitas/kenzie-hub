@@ -1,5 +1,5 @@
-Esse projeto simula um ambiente onde o usuário pode criar sua conta e administrar seu status de conhecimento com cada tecnologia que ele escolher criar. 
-Ele tem funcionalidades como, login, cadastro, modal para criar tecnologias, editar o status de conhecimento e deletar tecnologia. 
+Esse projeto simula um ambiente de uma loja online, no qual o usuário pode criar sua conta, ver os produtos disponíveis, adicionar ao carrinho e ver o valor total da compra. 
+Ele tem funcionalidades como, login, cadastro, modal de carrinho que mostra os produtos adicionados 
 Foi feito como entrega semanal do curso Kenzie Academy e está utilizando a api disponibilizada por eles.
 
 Link do vercel: https://kenzie-hub-neon-sigma.vercel.app/
